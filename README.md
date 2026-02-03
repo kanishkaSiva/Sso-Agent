@@ -93,18 +93,11 @@ pip install -r requirements.txt
 ### 4️⃣ Run the Application
 
 ```bash
-python app/main.py
+python main_enhanced_portal.py
+
 ```
 
----
 
-## 🧪 Testing (Optional)
-
-```bash
-pytest
-```
-
----
 
 ##  How to Extend
 
